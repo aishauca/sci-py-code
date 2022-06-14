@@ -1,2 +1,3 @@
-# sci-py-code
-this repo for scientific python code 
+# sci-py-code\
+
+_this repo for scientific python code 
